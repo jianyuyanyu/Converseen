@@ -4,7 +4,7 @@ if(WIN32)
     cmake_policy(SET CMP0135 NEW)
 endif()
 
-set(CONVERSEEN_VERSION 0.15.2.7)
+set(CONVERSEEN_VERSION 0.15.2.8)
 
 project(
     converseen
@@ -148,6 +148,7 @@ set(converseen_LANG
     loc/converseen_sv_SE.ts
     loc/converseen_zh_CN.ts
     loc/converseen_ko_KR.ts
+    loc/converseen_ka_GE.ts
 )
 
 if (USE_QT6)

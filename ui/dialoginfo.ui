@@ -150,9 +150,9 @@ p, li { white-space: pre-wrap; }
          <property name="geometry">
           <rect>
            <x>0</x>
-           <y>-229</y>
+           <y>-253</y>
            <width>882</width>
-           <height>372</height>
+           <height>396</height>
           </rect>
          </property>
          <layout class="QVBoxLayout" name="verticalLayout_3">
@@ -273,6 +273,16 @@ p, li { white-space: pre-wrap; }
             </property>
             <property name="textFormat">
              <enum>Qt::TextFormat::RichText</enum>
+            </property>
+            <property name="openExternalLinks">
+             <bool>true</bool>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QLabel" name="label_23">
+            <property name="text">
+             <string>&lt;strong&gt;Georgian Translation: &lt;/strong&gt;&lt;a href=&quot;https://github.com/EkaterinePapava&quot;&gt;Ekaterine Papava (GitHub)&lt;/a&gt;</string>
             </property>
             <property name="openExternalLinks">
              <bool>true</bool>

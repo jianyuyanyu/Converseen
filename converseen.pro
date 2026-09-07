@@ -131,7 +131,8 @@ win32 {
  loc/converseen_uk_UA.ts \
  loc/converseen_sv_SE.ts \
  loc/converseen_zh_CN.ts \
- loc/converseen_ko_KR.ts
+ loc/converseen_ko_KR.ts \
+ loc/converseen_ka_GE.ts
  
  RESOURCES +=  resources.qrc
  INSTALL_PREFIX =  /usr
@@ -153,7 +154,9 @@ win32 {
  loc/converseen_uk_UA.qm \
  loc/converseen_sv_SE.qm \
  loc/converseen_zh_CN.qm \
- loc/converseen_ko_KR.qm
+ loc/converseen_ko_KR.qm \
+ loc/converseen_ka_GE.qm
+
  icon16.path = $${SHARE_DIR}/icons/hicolor/16x16/apps
  icon16.files += res/icons/16x16/converseen.png
  icon32.path = $${SHARE_DIR}/icons/hicolor/32x32/apps

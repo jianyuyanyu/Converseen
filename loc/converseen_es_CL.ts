@@ -247,17 +247,22 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../ui/dialoginfo.ui" line="294"/>
+        <location filename="../ui/dialoginfo.ui" line="285"/>
+        <source>&lt;strong&gt;Georgian Translation: &lt;/strong&gt;&lt;a href=&quot;https://github.com/EkaterinePapava&quot;&gt;Ekaterine Papava (GitHub)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../ui/dialoginfo.ui" line="304"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;If you appreciate this work and would like to support the project, you are welcome to donate via PayPal&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../ui/dialoginfo.ui" line="382"/>
+        <location filename="../ui/dialoginfo.ui" line="392"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Follow Converseen:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Sigue a Converseen:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="../ui/dialoginfo.ui" line="468"/>
+        <location filename="../ui/dialoginfo.ui" line="478"/>
         <source>Close</source>
         <translation>Cerrar</translation>
     </message>
@@ -1285,77 +1290,77 @@ p, li { white-space: pre-wrap; }
         <translation>Procesando...</translation>
     </message>
     <message>
-        <location filename="../src/mainwindowimpl.cpp" line="769"/>
+        <location filename="../src/mainwindowimpl.cpp" line="773"/>
         <source>Converted</source>
         <translation type="unfinished">Convertidas</translation>
     </message>
     <message>
-        <location filename="../src/mainwindowimpl.cpp" line="774"/>
+        <location filename="../src/mainwindowimpl.cpp" line="778"/>
         <source>Skipped</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/mainwindowimpl.cpp" line="776"/>
+        <location filename="../src/mainwindowimpl.cpp" line="780"/>
         <source>Error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/mainwindowimpl.cpp" line="785"/>
+        <location filename="../src/mainwindowimpl.cpp" line="789"/>
         <source>Processing finished!</source>
         <translation>Proceso terminado.</translation>
     </message>
     <message>
-        <location filename="../src/mainwindowimpl.cpp" line="958"/>
-        <location filename="../src/mainwindowimpl.cpp" line="976"/>
-        <location filename="../src/mainwindowimpl.cpp" line="1149"/>
-        <location filename="../src/mainwindowimpl.cpp" line="1206"/>
+        <location filename="../src/mainwindowimpl.cpp" line="962"/>
+        <location filename="../src/mainwindowimpl.cpp" line="980"/>
+        <location filename="../src/mainwindowimpl.cpp" line="1153"/>
+        <location filename="../src/mainwindowimpl.cpp" line="1210"/>
         <source>Preview</source>
         <translation>Vista previa</translation>
     </message>
     <message>
-        <location filename="../src/mainwindowimpl.cpp" line="1379"/>
+        <location filename="../src/mainwindowimpl.cpp" line="1383"/>
         <source>No updates available!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/mainwindowimpl.cpp" line="1380"/>
+        <location filename="../src/mainwindowimpl.cpp" line="1384"/>
         <source>%1 is already updated to the most recent version.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/mainwindowimpl.cpp" line="1397"/>
+        <location filename="../src/mainwindowimpl.cpp" line="1401"/>
         <source>New version is available!</source>
         <translation type="unfinished">¡Hay una nueva versión disponible!</translation>
     </message>
     <message>
-        <location filename="../src/mainwindowimpl.cpp" line="1398"/>
+        <location filename="../src/mainwindowimpl.cpp" line="1402"/>
         <source>A new version of %1 is available!
 Would you download it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/mainwindowimpl.cpp" line="281"/>
-        <location filename="../src/mainwindowimpl.cpp" line="839"/>
+        <location filename="../src/mainwindowimpl.cpp" line="843"/>
         <source>Open Directory</source>
         <translation>Abrir carpeta</translation>
     </message>
     <message>
-        <location filename="../src/mainwindowimpl.cpp" line="1284"/>
+        <location filename="../src/mainwindowimpl.cpp" line="1288"/>
         <source>Suggest a new name!</source>
         <translation>Sugiere un nuevo nombre.</translation>
     </message>
     <message>
-        <location filename="../src/mainwindowimpl.cpp" line="1285"/>
+        <location filename="../src/mainwindowimpl.cpp" line="1289"/>
         <source>New name:</source>
         <translation>Nuevo nombre:</translation>
     </message>
     <message>
-        <location filename="../src/mainwindowimpl.cpp" line="1290"/>
+        <location filename="../src/mainwindowimpl.cpp" line="1294"/>
         <source>Please, specify a name!</source>
         <translation>Por favor, especifica un nombre.</translation>
     </message>
     <message>
-        <location filename="../src/mainwindowimpl.cpp" line="1291"/>
+        <location filename="../src/mainwindowimpl.cpp" line="1295"/>
         <source>You should specify a name.
 Click Retry to specify a new name.
 Click Ignore to cancel this operation.
@@ -1366,23 +1371,23 @@ Haz clic en Ignorar para cancelar esta operación.
 Haz clic en Abortar para cancelar todas las operaciones.</translation>
     </message>
     <message>
-        <location filename="../src/mainwindowimpl.cpp" line="1308"/>
-        <location filename="../src/mainwindowimpl.cpp" line="1313"/>
+        <location filename="../src/mainwindowimpl.cpp" line="1312"/>
+        <location filename="../src/mainwindowimpl.cpp" line="1317"/>
         <source>Warning!</source>
         <translation>Advertencia</translation>
     </message>
     <message>
-        <location filename="../src/mainwindowimpl.cpp" line="1309"/>
+        <location filename="../src/mainwindowimpl.cpp" line="1313"/>
         <source>The filename should not be empty!</source>
         <translation>El nombre de archivo no debería estar vacío.</translation>
     </message>
     <message>
-        <location filename="../src/mainwindowimpl.cpp" line="1314"/>
+        <location filename="../src/mainwindowimpl.cpp" line="1318"/>
         <source>The name chosen is identical to the initial one. Do you want to overwrite the original file?</source>
         <translation>El nombre escogido es idéntico al original. ¿Deseas sobreescribir el archivo original?</translation>
     </message>
     <message>
-        <location filename="../src/mainwindowimpl.cpp" line="1330"/>
+        <location filename="../src/mainwindowimpl.cpp" line="1334"/>
         <source>Aborted!</source>
         <translation>Abortado</translation>
     </message>

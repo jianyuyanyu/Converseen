@@ -141,7 +141,7 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Překladatelé:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="../ui/dialoginfo.ui" line="468"/>
+        <location filename="../ui/dialoginfo.ui" line="478"/>
         <source>Close</source>
         <translation>Zavřít</translation>
     </message>
@@ -206,7 +206,12 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../ui/dialoginfo.ui" line="382"/>
+        <location filename="../ui/dialoginfo.ui" line="285"/>
+        <source>&lt;strong&gt;Georgian Translation: &lt;/strong&gt;&lt;a href=&quot;https://github.com/EkaterinePapava&quot;&gt;Ekaterine Papava (GitHub)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../ui/dialoginfo.ui" line="392"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Follow Converseen:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -231,7 +236,7 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../ui/dialoginfo.ui" line="294"/>
+        <location filename="../ui/dialoginfo.ui" line="304"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;If you appreciate this work and would like to support the project, you are welcome to donate via PayPal&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1226,13 +1231,13 @@ p, li { white-space: pre-wrap; }
         <translation>Probíhá zpracování...</translation>
     </message>
     <message>
-        <location filename="../src/mainwindowimpl.cpp" line="785"/>
+        <location filename="../src/mainwindowimpl.cpp" line="789"/>
         <source>Processing finished!</source>
         <translation>Zpracování dokončeno!</translation>
     </message>
     <message>
         <location filename="../src/mainwindowimpl.cpp" line="281"/>
-        <location filename="../src/mainwindowimpl.cpp" line="839"/>
+        <location filename="../src/mainwindowimpl.cpp" line="843"/>
         <source>Open Directory</source>
         <translation>Otevřít adresář</translation>
     </message>
@@ -1247,32 +1252,32 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/mainwindowimpl.cpp" line="774"/>
+        <location filename="../src/mainwindowimpl.cpp" line="778"/>
         <source>Skipped</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/mainwindowimpl.cpp" line="776"/>
+        <location filename="../src/mainwindowimpl.cpp" line="780"/>
         <source>Error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/mainwindowimpl.cpp" line="1284"/>
+        <location filename="../src/mainwindowimpl.cpp" line="1288"/>
         <source>Suggest a new name!</source>
         <translation>Navrhnout nový název!</translation>
     </message>
     <message>
-        <location filename="../src/mainwindowimpl.cpp" line="1285"/>
+        <location filename="../src/mainwindowimpl.cpp" line="1289"/>
         <source>New name:</source>
         <translation>Nový název:</translation>
     </message>
     <message>
-        <location filename="../src/mainwindowimpl.cpp" line="1290"/>
+        <location filename="../src/mainwindowimpl.cpp" line="1294"/>
         <source>Please, specify a name!</source>
         <translation>Zadejte, prosím, název!</translation>
     </message>
     <message>
-        <location filename="../src/mainwindowimpl.cpp" line="1291"/>
+        <location filename="../src/mainwindowimpl.cpp" line="1295"/>
         <source>You should specify a name.
 Click Retry to specify a new name.
 Click Ignore to cancel this operation.
@@ -1283,43 +1288,43 @@ Klepněte na Přehlížet pro zrušení této operace.
 Klepněte na Zrušit pro zrušení všech operací.</translation>
     </message>
     <message>
-        <location filename="../src/mainwindowimpl.cpp" line="1308"/>
-        <location filename="../src/mainwindowimpl.cpp" line="1313"/>
+        <location filename="../src/mainwindowimpl.cpp" line="1312"/>
+        <location filename="../src/mainwindowimpl.cpp" line="1317"/>
         <source>Warning!</source>
         <translation>Varování!</translation>
     </message>
     <message>
-        <location filename="../src/mainwindowimpl.cpp" line="1309"/>
+        <location filename="../src/mainwindowimpl.cpp" line="1313"/>
         <source>The filename should not be empty!</source>
         <translation>Název souboru nesmí být prázdný!</translation>
     </message>
     <message>
-        <location filename="../src/mainwindowimpl.cpp" line="1314"/>
+        <location filename="../src/mainwindowimpl.cpp" line="1318"/>
         <source>The name chosen is identical to the initial one. Do you want to overwrite the original file?</source>
         <translation>Vybraný název se shoduje se začátečním. Chcete přepsat původní soubor?</translation>
     </message>
     <message>
-        <location filename="../src/mainwindowimpl.cpp" line="1330"/>
+        <location filename="../src/mainwindowimpl.cpp" line="1334"/>
         <source>Aborted!</source>
         <translation>Zrušeno!</translation>
     </message>
     <message>
-        <location filename="../src/mainwindowimpl.cpp" line="1379"/>
+        <location filename="../src/mainwindowimpl.cpp" line="1383"/>
         <source>No updates available!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/mainwindowimpl.cpp" line="1380"/>
+        <location filename="../src/mainwindowimpl.cpp" line="1384"/>
         <source>%1 is already updated to the most recent version.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/mainwindowimpl.cpp" line="1397"/>
+        <location filename="../src/mainwindowimpl.cpp" line="1401"/>
         <source>New version is available!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/mainwindowimpl.cpp" line="1398"/>
+        <location filename="../src/mainwindowimpl.cpp" line="1402"/>
         <source>A new version of %1 is available!
 Would you download it?</source>
         <translation type="unfinished"></translation>
@@ -1335,10 +1340,10 @@ Would you download it?</source>
         <translation>Adresář nelze vytvořit!</translation>
     </message>
     <message>
-        <location filename="../src/mainwindowimpl.cpp" line="958"/>
-        <location filename="../src/mainwindowimpl.cpp" line="976"/>
-        <location filename="../src/mainwindowimpl.cpp" line="1149"/>
-        <location filename="../src/mainwindowimpl.cpp" line="1206"/>
+        <location filename="../src/mainwindowimpl.cpp" line="962"/>
+        <location filename="../src/mainwindowimpl.cpp" line="980"/>
+        <location filename="../src/mainwindowimpl.cpp" line="1153"/>
+        <location filename="../src/mainwindowimpl.cpp" line="1210"/>
         <source>Preview</source>
         <translation>Náhled</translation>
     </message>
@@ -1368,7 +1373,7 @@ Would you download it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/mainwindowimpl.cpp" line="769"/>
+        <location filename="../src/mainwindowimpl.cpp" line="773"/>
         <source>Converted</source>
         <translation type="unfinished">Převedeno</translation>
     </message>
